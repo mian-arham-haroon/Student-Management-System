@@ -34,16 +34,16 @@ This project demonstrates the integration of multiple Python libraries to build 
 
 ---
 
-## 🗃️ File Structure
+## File Structure
 
 ```
-📁 Student-Registration-System
-├── student_register.py           # Main application file
-├── Student_data.xlsx             # Auto-created Excel file
-├── Students Images/              # Folder for student photos
-├── README.md                     # Project description
-├── screenshots/                  # Contains screenshots of the GUI
-│   └── front_page.png            # Screenshot of the front page UI
+Student-Registration-System/
+|-- main.py           # Main application file
+|-- Student_data.xlsx             # Auto-created Excel file
+|-- Students_Images/              # Folder for student photos
+|-- README.md                     # Project description
+|-- screenshots/                  # Contains screenshots of the GUI
+    |-- front_page.png            # Screenshot of the front page UI
 ```
 
 > ⚠️ Note: `Student_data.xlsx` and the `Students Images/` folder are created automatically when the program is run for the first time.
