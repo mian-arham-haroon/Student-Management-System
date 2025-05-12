@@ -85,7 +85,7 @@ pip install pillow openpyxl
 Screenshots are available in the `/screenshots` folder to help you visually understand how the system works and what it looks like. Below is a snapshot of the application's front page:
 
 ![Front Page](ssm.png)
-![Front Page](Capture.png)
+![Front Page](Capture.PNG)
 
 ---
 
